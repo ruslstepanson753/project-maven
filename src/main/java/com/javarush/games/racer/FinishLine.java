@@ -1,7 +1,7 @@
 package com.javarush.games.racer;
 
 public class FinishLine extends GameObject {
-
+    //1
     boolean isVisible = false;
 
     public FinishLine() {
